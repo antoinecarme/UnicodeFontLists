@@ -1,0 +1,1073 @@
+{
+    "FDArray Test 257": {
+        "Foundry": "ADBO",
+        "Family": "FDArray Test 257",
+        "Format": "CFF",
+        "FilemName": "FDArrayTest257.otf",
+        "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,bo,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,dz,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,und-zsye,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
+    },
+    "Kurinto Aria KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Aria",
+        "Format": "TrueType",
+        "FilemName": "KurintoAriaKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Aria KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Aria",
+        "Format": "TrueType",
+        "FilemName": "KurintoAriaKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Aria KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Aria",
+        "Format": "TrueType",
+        "FilemName": "KurintoAriaKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Aria KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Aria",
+        "Format": "TrueType",
+        "FilemName": "KurintoAriaKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Arte KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Arte",
+        "Format": "TrueType",
+        "FilemName": "KurintoArteKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Arte KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Arte",
+        "Format": "TrueType",
+        "FilemName": "KurintoArteKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Arte KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Arte",
+        "Format": "TrueType",
+        "FilemName": "KurintoArteKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Arte KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Arte",
+        "Format": "TrueType",
+        "FilemName": "KurintoArteKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Book KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Book",
+        "Format": "TrueType",
+        "FilemName": "KurintoBookKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Book KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Book",
+        "Format": "TrueType",
+        "FilemName": "KurintoBookKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Book KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Book",
+        "Format": "TrueType",
+        "FilemName": "KurintoBookKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Book KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Book",
+        "Format": "TrueType",
+        "FilemName": "KurintoBookKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Cali KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Cali",
+        "Format": "TrueType",
+        "FilemName": "KurintoCaliKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Cali KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Cali",
+        "Format": "TrueType",
+        "FilemName": "KurintoCaliKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Cali KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Cali",
+        "Format": "TrueType",
+        "FilemName": "KurintoCaliKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Cali KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Cali",
+        "Format": "TrueType",
+        "FilemName": "KurintoCaliKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Sans KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Sans",
+        "Format": "TrueType",
+        "FilemName": "KurintoSansKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Sans KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Sans",
+        "Format": "TrueType",
+        "FilemName": "KurintoSansKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Sans KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Sans",
+        "Format": "TrueType",
+        "FilemName": "KurintoSansKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Sans KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Sans",
+        "Format": "TrueType",
+        "FilemName": "KurintoSansKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Seri KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Seri",
+        "Format": "TrueType",
+        "FilemName": "KurintoSeriKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Seri KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Seri",
+        "Format": "TrueType",
+        "FilemName": "KurintoSeriKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Seri KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Seri",
+        "Format": "TrueType",
+        "FilemName": "KurintoSeriKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Seri KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Seri",
+        "Format": "TrueType",
+        "FilemName": "KurintoSeriKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto TMod KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto TMod",
+        "Format": "TrueType",
+        "FilemName": "KurintoTModKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto TMod KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto TMod",
+        "Format": "TrueType",
+        "FilemName": "KurintoTModKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto TMod KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto TMod",
+        "Format": "TrueType",
+        "FilemName": "KurintoTModKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto TMod KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto TMod",
+        "Format": "TrueType",
+        "FilemName": "KurintoTModKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Text KM": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Text",
+        "Format": "TrueType",
+        "FilemName": "KurintoTextKM-Rg.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Text KM Bold": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Text",
+        "Format": "TrueType",
+        "FilemName": "KurintoTextKM-Bd.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Text KM Bold Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Text",
+        "Format": "TrueType",
+        "FilemName": "KurintoTextKM-BdIt.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Kurinto Text KM Italic": {
+        "Foundry": "Goss",
+        "Family": "Kurinto Text",
+        "Format": "TrueType",
+        "FilemName": "KurintoTextKM-It.ttf",
+        "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,km,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
+    },
+    "Myanmar Text": {
+        "Foundry": "MS  ",
+        "Family": "Myanmar Text",
+        "Format": "TrueType",
+        "FilemName": "mmrtext.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Myanmar Text Bold": {
+        "Foundry": "MS  ",
+        "Family": "Myanmar Text",
+        "Format": "TrueType",
+        "FilemName": "mmrtextb.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Noto Sans Myanmar Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Black.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Bold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Condensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Condensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Cond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-CondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtCond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-ExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Light.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Medium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Regular": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Regular.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar SemiCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar SemCond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-SemiCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmar-Thin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Black",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Black.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Bold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Condensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed Black",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed ExtraBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed ExtraLight",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed Medium",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed SemiBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Condensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Condensed Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-CondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed Black",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed ExtraBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed ExtraLight",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed Medium",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed SemiBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraCondensed Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI ExtraLight",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-ExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Light.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Medium",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Medium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Regular": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Regular.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed Black",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed ExtraBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed ExtraLight",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed Medium",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed SemiBold",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI SemiCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI SemiCondensed Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-SemiCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Sans Myanmar UI Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Sans Myanmar UI Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSansMyanmarUI-Thin.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Black.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Bold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Condensed",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Condensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Condensed Bold",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Condensed Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Condensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Cond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-CondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtCond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-ExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Light.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Medium.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Regular": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Regular.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensed.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed Black": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond Blk",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedBlack.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed Bold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed ExtraBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond ExtBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedExtraBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed ExtraLight": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond ExtLt",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedExtraLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed Light": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond Light",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedLight.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed Medium": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond Med",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedMedium.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed SemiBold": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond SemBd",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedSemiBold.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar SemiCondensed Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar SemCond Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-SemiCondensedThin.ttf",
+        "Languages": "my"
+    },
+    "Noto Serif Myanmar Thin": {
+        "Foundry": "GOOG",
+        "Family": "Noto Serif Myanmar Thin",
+        "Format": "TrueType",
+        "FilemName": "NotoSerifMyanmar-Thin.ttf",
+        "Languages": "my"
+    },
+    "Padauk": {
+        "Foundry": "SIL ",
+        "Family": "Padauk",
+        "Format": "TrueType",
+        "FilemName": "Padauk-Regular.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Padauk Bold": {
+        "Foundry": "SIL ",
+        "Family": "Padauk",
+        "Format": "TrueType",
+        "FilemName": "Padauk-Bold.ttf",
+        "Languages": "fj,ho,ia,ie,io,kj,kwm,ms,my,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
+    },
+    "Padauk Book": {
+        "Foundry": "SIL ",
+        "Family": "Padauk Book",
+        "Format": "TrueType",
+        "FilemName": "PadaukBook-Regular.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Padauk Book Bold": {
+        "Foundry": "SIL ",
+        "Family": "Padauk Book",
+        "Format": "TrueType",
+        "FilemName": "PadaukBook-Bold.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "TharLon": {
+        "Foundry": "PYRS",
+        "Family": "TharLon",
+        "Format": "TrueType",
+        "FilemName": "Tharlon-Regular.ttf",
+        "Languages": "fj,gv,ho,ia,id,ie,io,kj,kwm,ms,my,ng,nr,om,rn,rw,sn,so,ss,st,su,sw,ts,uz,xh,za,zu"
+    },
+    "Myanmar Khyay": {
+        "Foundry": "HL  ",
+        "Family": "Myanmar Khyay",
+        "Format": "TrueType",
+        "FilemName": "Khyay-Regular.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,da,de,en,es,et,eu,fi,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Myanmar Sans Pro": {
+        "Foundry": "HL  ",
+        "Family": "Myanmar Sans Pro",
+        "Format": "TrueType",
+        "FilemName": "MyanmarSansPro-Regular.ttf",
+        "Languages": "my"
+    },
+    "Yinmar": {
+        "Foundry": "HL  ",
+        "Family": "Yinmar",
+        "Format": "TrueType",
+        "FilemName": "Yinmar-Regular.ttf",
+        "Languages": "my"
+    },
+    "bit": {
+        "Foundry": "MS  ",
+        "Family": "bit",
+        "Format": "TrueType",
+        "FilemName": "bit-rfa.ttf",
+        "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,mg,ms,my,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
+    },
+    "Zawgyi-One": {
+        "Foundry": "MS  ",
+        "Family": "Zawgyi-One",
+        "Format": "TrueType",
+        "FilemName": "ZawgyiOne2008.ttf",
+        "Languages": "aa,an,ar,ast,av,ay,az-az,az-ir,be,bg,bi,bin,br,bs,bua,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,he,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,ki,kj,kk,kl,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,my,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,ota,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ro,ru,rw,sc,sd,se,sel,sg,shs,sk,sl,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,th,tk,tl,tn,tr,ts,tt,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,za,zu"
+    }
+}
