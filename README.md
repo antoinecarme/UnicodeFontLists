@@ -10,4 +10,4 @@ These lists are generated from a large collection gathered over time and include
 
 For each font, we give the font full name, the foundry name, the family name, the format (truetype etc), the (truetype / opentype) file name and the set of languages that the font claims to support.
 
-The lists were generated automatically using the excellent fontconfig and Pango tools with a snall python script. The source was run on a Debian linux machine.
+The lists were generated automatically using the excellent fontconfig and Pango tools with a small python script. The source was run on a Debian linux machine.
