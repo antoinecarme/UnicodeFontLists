@@ -3,1939 +3,1939 @@
         "Foundry": "ADBO",
         "Family": "FDArray Test 257",
         "Format": "CFF",
-        "FilemName": "FDArrayTest257.otf",
+        "FileName": "FDArrayTest257.otf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,bo,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,dz,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,und-zsye,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Looped Lao Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Black",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Black.ttf",
+        "FileName": "NotoLoopedLao-Black.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Bold.ttf",
+        "FileName": "NotoLoopedLao-Bold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Condensed",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Condensed.ttf",
+        "FileName": "NotoLoopedLao-Condensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedBlack.ttf",
+        "FileName": "NotoLoopedLao-CondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedBold.ttf",
+        "FileName": "NotoLoopedLao-CondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLao-CondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond ExLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLao-CondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedLight.ttf",
+        "FileName": "NotoLoopedLao-CondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedMedium.ttf",
+        "FileName": "NotoLoopedLao-CondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLao-CondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Condensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Cond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-CondensedThin.ttf",
+        "FileName": "NotoLoopedLao-CondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExtraBold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraBold.ttf",
+        "FileName": "NotoLoopedLao-ExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExtraCond",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensed.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedBlack.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedBold.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd ExLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedLight.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedMedium.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExCd Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraCondensedThin.ttf",
+        "FileName": "NotoLoopedLao-ExtraCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao ExtLight",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-ExtraLight.ttf",
+        "FileName": "NotoLoopedLao-ExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Light",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Light.ttf",
+        "FileName": "NotoLoopedLao-Light.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Medium",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Medium.ttf",
+        "FileName": "NotoLoopedLao-Medium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Regular",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Regular.ttf",
+        "FileName": "NotoLoopedLao-Regular.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SemiBold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiBold.ttf",
+        "FileName": "NotoLoopedLao-SemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SemiCond",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensed.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedBlack.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedBold.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedLight.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedMedium.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao SemiCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao SmCd Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-SemiCondensedThin.ttf",
+        "FileName": "NotoLoopedLao-SemiCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLao-Thin.ttf",
+        "FileName": "NotoLoopedLao-Thin.ttf",
         "Languages": "lo"
     },
     "Kurinto Aria": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAria-Rg.ttf",
+        "FileName": "KurintoAria-Rg.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAria-Bd.ttf",
+        "FileName": "KurintoAria-Bd.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAria-BdIt.ttf",
+        "FileName": "KurintoAria-BdIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAria-It.ttf",
+        "FileName": "KurintoAria-It.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Arte": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArte-Rg.ttf",
+        "FileName": "KurintoArte-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Arte Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArte-Bd.ttf",
+        "FileName": "KurintoArte-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Arte Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArte-BdIt.ttf",
+        "FileName": "KurintoArte-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Arte Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArte-It.ttf",
+        "FileName": "KurintoArte-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book": {
         "Foundry": "Goss",
         "Family": "Kurinto Book",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-Rg.ttf",
+        "FileName": "KurintoBook-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Book",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-Bd.ttf",
+        "FileName": "KurintoBook-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Book",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-BdIt.ttf",
+        "FileName": "KurintoBook-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Book",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-It.ttf",
+        "FileName": "KurintoBook-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book Light": {
         "Foundry": "Goss",
         "Family": "Kurinto Book Light",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-Lt.ttf",
+        "FileName": "KurintoBook-Lt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Book Light Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Book Light",
         "Format": "TrueType",
-        "FilemName": "KurintoBook-LtIt.ttf",
+        "FileName": "KurintoBook-LtIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Cali": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCali-Rg.ttf",
+        "FileName": "KurintoCali-Rg.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCali-Bd.ttf",
+        "FileName": "KurintoCali-Bd.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCali-BdIt.ttf",
+        "FileName": "KurintoCali-BdIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCali-It.ttf",
+        "FileName": "KurintoCali-It.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Plot": {
         "Foundry": "Goss",
         "Family": "Kurinto Plot",
         "Format": "TrueType",
-        "FilemName": "KurintoPlot-Rg.ttf",
+        "FileName": "KurintoPlot-Rg.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Plot Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Plot",
         "Format": "TrueType",
-        "FilemName": "KurintoPlot-Bd.ttf",
+        "FileName": "KurintoPlot-Bd.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Plot Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Plot",
         "Format": "TrueType",
-        "FilemName": "KurintoPlot-BdIt.ttf",
+        "FileName": "KurintoPlot-BdIt.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Plot Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Plot",
         "Format": "TrueType",
-        "FilemName": "KurintoPlot-It.ttf",
+        "FileName": "KurintoPlot-It.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Sans": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-Rg.ttf",
+        "FileName": "KurintoSans-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-Bd.ttf",
+        "FileName": "KurintoSans-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-BdIt.ttf",
+        "FileName": "KurintoSans-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-It.ttf",
+        "FileName": "KurintoSans-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Music": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansMusic-Rg.ttf",
+        "FileName": "KurintoSansMusic-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Music Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansMusic-Bd.ttf",
+        "FileName": "KurintoSansMusic-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Music Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansMusic-BdIt.ttf",
+        "FileName": "KurintoSansMusic-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans Music Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansMusic-It.ttf",
+        "FileName": "KurintoSansMusic-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans SemiBold": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans SemiBold",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-SemBd.ttf",
+        "FileName": "KurintoSans-SemBd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Sans SemiBold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans SemiBold",
         "Format": "TrueType",
-        "FilemName": "KurintoSans-SemBdIt.ttf",
+        "FileName": "KurintoSans-SemBdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Seri": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeri-Rg.ttf",
+        "FileName": "KurintoSeri-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Seri Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeri-Bd.ttf",
+        "FileName": "KurintoSeri-Bd.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-ma,bg,bh,bho,bi,bin,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,ki,kj,kk,kl,kn,kok,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Seri Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeri-BdIt.ttf",
+        "FileName": "KurintoSeri-BdIt.ttf",
         "Languages": "aa,ab,af,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-ma,bg,bh,bho,bi,bin,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,ki,kj,kk,kl,kn,kok,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Seri Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeri-It.ttf",
+        "FileName": "KurintoSeri-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto TMod": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTMod-Rg.ttf",
+        "FileName": "KurintoTMod-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto TMod Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTMod-Bd.ttf",
+        "FileName": "KurintoTMod-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto TMod Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTMod-BdIt.ttf",
+        "FileName": "KurintoTMod-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto TMod Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTMod-It.ttf",
+        "FileName": "KurintoTMod-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoText-Rg.ttf",
+        "FileName": "KurintoText-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoText-Bd.ttf",
+        "FileName": "KurintoText-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoText-BdIt.ttf",
+        "FileName": "KurintoText-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoText-It.ttf",
+        "FileName": "KurintoText-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Music": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextMusic-Rg.ttf",
+        "FileName": "KurintoTextMusic-Rg.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Music Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextMusic-Bd.ttf",
+        "FileName": "KurintoTextMusic-Bd.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Music Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextMusic-BdIt.ttf",
+        "FileName": "KurintoTextMusic-BdIt.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Text Music Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextMusic-It.ttf",
+        "FileName": "KurintoTextMusic-It.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kn,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Kurinto Type": {
         "Foundry": "Goss",
         "Family": "Kurinto Type",
         "Format": "TrueType",
-        "FilemName": "KurintoType-Rg.ttf",
+        "FileName": "KurintoType-Rg.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Type",
         "Format": "TrueType",
-        "FilemName": "KurintoType-Bd.ttf",
+        "FileName": "KurintoType-Bd.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type",
         "Format": "TrueType",
-        "FilemName": "KurintoType-BdIt.ttf",
+        "FileName": "KurintoType-BdIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type",
         "Format": "TrueType",
-        "FilemName": "KurintoType-It.ttf",
+        "FileName": "KurintoType-It.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Narrow": {
         "Foundry": "Goss",
         "Family": "Kurinto Type Narrow",
         "Format": "TrueType",
-        "FilemName": "KurintoType-NarRg.ttf",
+        "FileName": "KurintoType-NarRg.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Narrow Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Type Narrow",
         "Format": "TrueType",
-        "FilemName": "KurintoType-NarBd.ttf",
+        "FileName": "KurintoType-NarBd.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Narrow Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type Narrow",
         "Format": "TrueType",
-        "FilemName": "KurintoType-NarBdIt.ttf",
+        "FileName": "KurintoType-NarBdIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type Narrow Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type Narrow",
         "Format": "TrueType",
-        "FilemName": "KurintoType-NarIt.ttf",
+        "FileName": "KurintoType-NarIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type SemiWide": {
         "Foundry": "Goss",
         "Family": "Kurinto Type SemiWide",
         "Format": "TrueType",
-        "FilemName": "KurintoType-SemWidRg.ttf",
+        "FileName": "KurintoType-SemWidRg.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type SemiWide Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Type SemiWide",
         "Format": "TrueType",
-        "FilemName": "KurintoType-SemWidBd.ttf",
+        "FileName": "KurintoType-SemWidBd.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type SemiWide Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type SemiWide",
         "Format": "TrueType",
-        "FilemName": "KurintoType-SemWidBdIt.ttf",
+        "FileName": "KurintoType-SemWidBdIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Type SemiWide Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Type SemiWide",
         "Format": "TrueType",
-        "FilemName": "KurintoType-SemWidIt.ttf",
+        "FileName": "KurintoType-SemWidIt.ttf",
         "Languages": "aa,af,am,an,ar,as,av,ay,az-ir,be,ber-ma,bg,bh,bho,bi,bn,br,brx,bs,bua,byn,ca,ce,ch,chr,co,crh,cs,csb,cy,da,de,doi,dv,el,en,eo,es,et,eu,fa,fi,fil,fj,fo,fr,fur,fy,gd,gez,gl,gu,gv,haw,hi,hne,ho,hr,hsb,ht,hu,hy,ia,id,ie,ii,ik,io,is,it,iu,jv,ka,ki,kj,kk,kl,kn,kok,ks,ku-iq,ku-ir,ku-tr,kum,kwm,ky,la,lah,lb,lez,lg,li,lo,lt,lv,mai,mg,mh,mk,ml,mn-cn,mn-mn,mni,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,rm,rn,ru,rw,sa,sat,sc,sd,se,sel,sg,si,sid,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,ty,tyv,ug,uk,ur,uz,vo,vot,wa,wal,wen,wo,xh,yap,za,zu"
     },
     "Lao Muang Don": {
         "Foundry": "ADBE",
         "Family": "Lao Muang Don",
         "Format": "TrueType",
-        "FilemName": "LaoMuangDon-Regular.lao",
+        "FileName": "LaoMuangDon-Regular.lao",
         "Languages": "lo"
     },
     "Lao Muang Khong": {
         "Foundry": "ADBE",
         "Family": "Lao Muang Khong",
         "Format": "TrueType",
-        "FilemName": "LaoMuangKhong-Regular.lao",
+        "FileName": "LaoMuangKhong-Regular.lao",
         "Languages": "lo"
     },
     "Lao Sans Pro": {
         "Foundry": "ADBE",
         "Family": "Lao Sans Pro",
         "Format": "TrueType",
-        "FilemName": "LaoSansPro-Regular.ttf",
+        "FileName": "LaoSansPro-Regular.ttf",
         "Languages": "lo"
     },
     "Leelawadee UI": {
         "Foundry": "MS  ",
         "Family": "Leelawadee UI",
         "Format": "TrueType",
-        "FilemName": "LeelawUI.ttf",
+        "FileName": "LeelawUI.ttf",
         "Languages": "aa,an,ay,bi,bin,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ig,io,is,it,jv,kj,km,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,th,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Leelawadee UI Bold": {
         "Foundry": "MS  ",
         "Family": "Leelawadee UI",
         "Format": "TrueType",
-        "FilemName": "LeelaUIb.ttf",
+        "FileName": "LeelaUIb.ttf",
         "Languages": "aa,an,ay,bi,bin,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ig,io,is,it,jv,kj,km,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,th,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Leelawadee UI Semilight": {
         "Foundry": "MS  ",
         "Family": "Leelawadee UI Semilight",
         "Format": "TrueType",
-        "FilemName": "LeelUIsl.ttf",
+        "FileName": "LeelUIsl.ttf",
         "Languages": "aa,an,ay,bi,bin,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ig,io,is,it,jv,kj,km,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,th,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Noto Sans Lao Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Black.ttf",
+        "FileName": "NotoSansLao-Black.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Bold.ttf",
+        "FileName": "NotoSansLao-Bold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Condensed.ttf",
+        "FileName": "NotoSansLao-Condensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedBlack.ttf",
+        "FileName": "NotoSansLao-CondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedBold.ttf",
+        "FileName": "NotoSansLao-CondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedExtraBold.ttf",
+        "FileName": "NotoSansLao-CondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedExtraLight.ttf",
+        "FileName": "NotoSansLao-CondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedLight.ttf",
+        "FileName": "NotoSansLao-CondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedMedium.ttf",
+        "FileName": "NotoSansLao-CondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedSemiBold.ttf",
+        "FileName": "NotoSansLao-CondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Condensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Cond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-CondensedThin.ttf",
+        "FileName": "NotoSansLao-CondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraBold.ttf",
+        "FileName": "NotoSansLao-ExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensed.ttf",
+        "FileName": "NotoSansLao-ExtraCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedBlack.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedBold.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedExtraBold.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedExtraLight.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedLight.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedMedium.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedSemiBold.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraCondensedThin.ttf",
+        "FileName": "NotoSansLao-ExtraCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-ExtraLight.ttf",
+        "FileName": "NotoSansLao-ExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Light.ttf",
+        "FileName": "NotoSansLao-Light.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Medium.ttf",
+        "FileName": "NotoSansLao-Medium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Regular.ttf",
+        "FileName": "NotoSansLao-Regular.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiBold.ttf",
+        "FileName": "NotoSansLao-SemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensed.ttf",
+        "FileName": "NotoSansLao-SemiCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedBlack.ttf",
+        "FileName": "NotoSansLao-SemiCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedBold.ttf",
+        "FileName": "NotoSansLao-SemiCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedExtraBold.ttf",
+        "FileName": "NotoSansLao-SemiCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedExtraLight.ttf",
+        "FileName": "NotoSansLao-SemiCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedLight.ttf",
+        "FileName": "NotoSansLao-SemiCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedMedium.ttf",
+        "FileName": "NotoSansLao-SemiCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedSemiBold.ttf",
+        "FileName": "NotoSansLao-SemiCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao SemiCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao SemCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-SemiCondensedThin.ttf",
+        "FileName": "NotoSansLao-SemiCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLao-Thin.ttf",
+        "FileName": "NotoSansLao-Thin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Black.ttf",
+        "FileName": "NotoSansLaoUI-Black.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Bold.ttf",
+        "FileName": "NotoSansLaoUI-Bold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Condensed.ttf",
+        "FileName": "NotoSansLaoUI-Condensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedBlack.ttf",
+        "FileName": "NotoSansLaoUI-CondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedBold.ttf",
+        "FileName": "NotoSansLaoUI-CondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedExtraBold.ttf",
+        "FileName": "NotoSansLaoUI-CondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedExtraLight.ttf",
+        "FileName": "NotoSansLaoUI-CondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedLight.ttf",
+        "FileName": "NotoSansLaoUI-CondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedMedium.ttf",
+        "FileName": "NotoSansLaoUI-CondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedSemiBold.ttf",
+        "FileName": "NotoSansLaoUI-CondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Condensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Cond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-CondensedThin.ttf",
+        "FileName": "NotoSansLaoUI-CondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraBold.ttf",
+        "FileName": "NotoSansLaoUI-ExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensed.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedBlack.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedBold.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedExtraBold.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedExtraLight.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedLight.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedMedium.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedSemiBold.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraCondensedThin.ttf",
+        "FileName": "NotoSansLaoUI-ExtraCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-ExtraLight.ttf",
+        "FileName": "NotoSansLaoUI-ExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Light.ttf",
+        "FileName": "NotoSansLaoUI-Light.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Medium.ttf",
+        "FileName": "NotoSansLaoUI-Medium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Regular.ttf",
+        "FileName": "NotoSansLaoUI-Regular.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiBold.ttf",
+        "FileName": "NotoSansLaoUI-SemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensed.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedBlack.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedBold.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedExtraBold.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedExtraLight.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedLight.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedMedium.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedSemiBold.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI SemiCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI SemCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-SemiCondensedThin.ttf",
+        "FileName": "NotoSansLaoUI-SemiCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Sans Lao UI Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans Lao UI Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSansLaoUI-Thin.ttf",
+        "FileName": "NotoSansLaoUI-Thin.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Black": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Black.ttf",
+        "FileName": "NotoSerifLao-Black.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Bold.ttf",
+        "FileName": "NotoSerifLao-Bold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Condensed.ttf",
+        "FileName": "NotoSerifLao-Condensed.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedBlack.ttf",
+        "FileName": "NotoSerifLao-CondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedBold.ttf",
+        "FileName": "NotoSerifLao-CondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedExtraBold.ttf",
+        "FileName": "NotoSerifLao-CondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedExtraLight.ttf",
+        "FileName": "NotoSerifLao-CondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedLight.ttf",
+        "FileName": "NotoSerifLao-CondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedMedium.ttf",
+        "FileName": "NotoSerifLao-CondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedSemiBold.ttf",
+        "FileName": "NotoSerifLao-CondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Condensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Cond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-CondensedThin.ttf",
+        "FileName": "NotoSerifLao-CondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraBold.ttf",
+        "FileName": "NotoSerifLao-ExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensed.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedBlack.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedBold.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedExtraBold.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedExtraLight.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedLight.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedMedium.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedSemiBold.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraCondensedThin.ttf",
+        "FileName": "NotoSerifLao-ExtraCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-ExtraLight.ttf",
+        "FileName": "NotoSerifLao-ExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Light": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Light",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Light.ttf",
+        "FileName": "NotoSerifLao-Light.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Med",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Medium.ttf",
+        "FileName": "NotoSerifLao-Medium.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Regular.ttf",
+        "FileName": "NotoSerifLao-Regular.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiBold.ttf",
+        "FileName": "NotoSerifLao-SemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensed.ttf",
+        "FileName": "NotoSerifLao-SemiCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedBlack.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedBold.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond ExtBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedExtraBold.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedExtraLight.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond Light",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedLight.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond Med",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedMedium.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond SemBd",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedSemiBold.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao SemiCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao SemCond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-SemiCondensedThin.ttf",
+        "FileName": "NotoSerifLao-SemiCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Serif Lao Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Serif Lao Thin",
         "Format": "TrueType",
-        "FilemName": "NotoSerifLao-Thin.ttf",
+        "FileName": "NotoSerifLao-Thin.ttf",
         "Languages": "lo"
     },
     "Phetsarath OT": {
         "Foundry": "HL  ",
         "Family": "Phetsarath OT",
         "Format": "TrueType",
-        "FilemName": "Phetsarath OT.ttf",
+        "FileName": "Phetsarath OT.ttf",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,th,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Arial Unicode MS": {
         "Foundry": "MONO",
         "Family": "Arial Unicode MS",
         "Format": "TrueType",
-        "FilemName": "Arial Unicode.ttf",
+        "FileName": "Arial Unicode.ttf",
         "Languages": "aa,ab,af,ak,an,ar,as,ast,av,ay,az-az,ba,be,ber-dz,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,doi,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,ja,jv,ka,kaa,kab,ki,kj,kk,kl,kn,ko,kok,ku-iq,ku-ir,ku-tr,kum,kv,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,ml,mn-mn,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ru,rw,sa,sah,sat,sc,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Code2000": {
         "Foundry": "jjk",
         "Family": "Code2000",
         "Format": "TrueType",
-        "FilemName": "CODE2000.TTF",
+        "FileName": "CODE2000.TTF",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "DejaVu Sans": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans",
         "Format": "TrueType",
-        "FilemName": "DejaVuSans.ttf",
+        "FileName": "DejaVuSans.ttf",
         "Languages": "aa,ab,af,ak,an,ar,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,ota,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Bold": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans",
         "Format": "TrueType",
-        "FilemName": "DejaVuSans-Bold.ttf",
+        "FileName": "DejaVuSans-Bold.ttf",
         "Languages": "aa,ab,af,ak,an,ar,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,ota,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Bold Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans",
         "Format": "TrueType",
-        "FilemName": "DejaVuSans-BoldOblique.ttf",
+        "FileName": "DejaVuSans-BoldOblique.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Condensed": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Condensed",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansCondensed.ttf",
+        "FileName": "DejaVuSansCondensed.ttf",
         "Languages": "aa,ab,af,ak,an,ar,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,ota,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Condensed Bold": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Condensed",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansCondensed-Bold.ttf",
+        "FileName": "DejaVuSansCondensed-Bold.ttf",
         "Languages": "aa,ab,af,ak,an,ar,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,ota,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Condensed Bold Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Condensed",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansCondensed-BoldOblique.ttf",
+        "FileName": "DejaVuSansCondensed-BoldOblique.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Condensed Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Condensed",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansCondensed-Oblique.ttf",
+        "FileName": "DejaVuSansCondensed-Oblique.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "DejaVu Sans Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans",
         "Format": "TrueType",
-        "FilemName": "DejaVuSans-Oblique.ttf",
+        "FileName": "DejaVuSans-Oblique.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,he,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,iu,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lo,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,yo,za,zu"
     },
     "Dhyana": {
         "Foundry": "newt",
         "Family": "Dhyana",
         "Format": "TrueType",
-        "FilemName": "Dhyana-Regular.ttf",
+        "FileName": "Dhyana-Regular.ttf",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Dhyana Bold": {
         "Foundry": "PfEd",
         "Family": "Dhyana",
         "Format": "TrueType",
-        "FilemName": "Dhyana-Bold.lao",
+        "FileName": "Dhyana-Bold.lao",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,eu,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,wa,xh,yap,za,zu"
     },
     "DokChampa": {
         "Foundry": "TMC ",
         "Family": "DokChampa",
         "Format": "TrueType",
-        "FilemName": "dokchamp.ttf",
+        "FileName": "dokchamp.ttf",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,th,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Lao Sangam MN": {
         "Foundry": "MUTF",
         "Family": "Lao Sangam MN",
         "Format": "TrueType",
-        "FilemName": "Lao Sangam MN.ttf",
+        "FileName": "Lao Sangam MN.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,kwm,lo,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Lao UI": {
         "Foundry": "MS  ",
         "Family": "Lao UI",
         "Format": "TrueType",
-        "FilemName": "LaoUI.ttf",
+        "FileName": "LaoUI.ttf",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Lao UI Bold": {
         "Foundry": "MS  ",
         "Family": "Lao UI",
         "Format": "TrueType",
-        "FilemName": "LaoUIb.ttf",
+        "FileName": "LaoUIb.ttf",
         "Languages": "aa,an,ay,bi,br,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,kwm,lb,li,lo,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,xh,yap,za,zu"
     },
     "Noto Looped Lao UI Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Black",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Black.ttf",
+        "FileName": "NotoLoopedLaoUI-Black.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Bold.ttf",
+        "FileName": "NotoLoopedLaoUI-Bold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Condensed",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Condensed.ttf",
+        "FileName": "NotoLoopedLaoUI-Condensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedBlack.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedBold.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond ExLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedLight.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedMedium.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Condensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Cond Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-CondensedThin.ttf",
+        "FileName": "NotoLoopedLaoUI-CondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExtraBold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraBold.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExtraCond",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensed.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedBlack.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedBold.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd ExLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedLight.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedMedium.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExCd Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraCondensedThin.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI ExtLight",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-ExtraLight.ttf",
+        "FileName": "NotoLoopedLaoUI-ExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Light",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Light.ttf",
+        "FileName": "NotoLoopedLaoUI-Light.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Medium",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Medium.ttf",
+        "FileName": "NotoLoopedLaoUI-Medium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Regular",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Regular.ttf",
+        "FileName": "NotoLoopedLaoUI-Regular.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SemiBold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiBold.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SemiCond",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensed.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensed.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed Black": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd Blk",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedBlack.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedBlack.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd Bold",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedBold.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed ExtraBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd ExBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedExtraBold.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedExtraBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd ExtLt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedExtraLight.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedExtraLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed Light": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd Lt",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedLight.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedLight.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd Med",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedMedium.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedMedium.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd SmBd",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedSemiBold.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedSemiBold.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI SemiCondensed Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI SmCd Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-SemiCondensedThin.ttf",
+        "FileName": "NotoLoopedLaoUI-SemiCondensedThin.ttf",
         "Languages": "lo"
     },
     "Noto Looped Lao UI Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Looped Lao UI Thin",
         "Format": "TrueType",
-        "FilemName": "NotoLoopedLaoUI-Thin.ttf",
+        "FileName": "NotoLoopedLaoUI-Thin.ttf",
         "Languages": "lo"
     },
     "Phetsarath Bold": {
         "Foundry": "HL  ",
         "Family": "Phetsarath",
         "Format": "TrueType",
-        "FilemName": "Phetsarath-Bold.lao",
+        "FileName": "Phetsarath-Bold.lao",
         "Languages": "lo"
     },
     "Phetsarath Regular": {
         "Foundry": "HL  ",
         "Family": "Phetsarath",
         "Format": "TrueType",
-        "FilemName": "Phetsarath-Regular.ttf",
+        "FileName": "Phetsarath-Regular.ttf",
         "Languages": "lo"
     },
     "Souliyo Unicode": {
         "Foundry": "HL  ",
         "Family": "Souliyo Unicode",
         "Format": "TrueType",
-        "FilemName": "Souliyo-Regular.ttf",
+        "FileName": "Souliyo-Regular.ttf",
         "Languages": "lo"
     },
     "Sun-ExtA": {
         "Foundry": "okuc",
         "Family": "Sun-ExtA",
         "Format": "TrueType",
-        "FilemName": "Sun-ExtA.ttf",
+        "FileName": "Sun-ExtA.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,bg,bh,bho,bi,bin,bm,bn,bo,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,dz,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,kr,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "DejaVu Sans Mono": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansMono.ttf",
+        "FileName": "DejaVuSansMono.ttf",
         "Languages": "aa,af,ak,an,ar,ast,av,ay,az-az,az-ir,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Bold": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansMono-Bold.ttf",
+        "FileName": "DejaVuSansMono-Bold.ttf",
         "Languages": "aa,af,ak,an,ar,ast,av,ay,az-az,az-ir,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Bold Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansMono-BoldOblique.ttf",
+        "FileName": "DejaVuSansMono-BoldOblique.ttf",
         "Languages": "aa,af,ak,an,ast,av,ay,az-az,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Bold Oblique for Powerline": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono for Powerline",
         "Format": "TrueType",
-        "FilemName": "DejaVu Sans Mono Bold Oblique for Powerline.ttf",
+        "FileName": "DejaVu Sans Mono Bold Oblique for Powerline.ttf",
         "Languages": "aa,af,ak,an,ast,av,ay,az-az,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Bold for Powerline": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono for Powerline",
         "Format": "TrueType",
-        "FilemName": "DejaVu Sans Mono Bold for Powerline.ttf",
+        "FileName": "DejaVu Sans Mono Bold for Powerline.ttf",
         "Languages": "aa,af,ak,an,ar,ast,av,ay,az-az,az-ir,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Oblique": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono",
         "Format": "TrueType",
-        "FilemName": "DejaVuSansMono-Oblique.ttf",
+        "FileName": "DejaVuSansMono-Oblique.ttf",
         "Languages": "aa,af,ak,an,ast,av,ay,az-az,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono Oblique for Powerline": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono for Powerline",
         "Format": "TrueType",
-        "FilemName": "DejaVu Sans Mono Oblique for Powerline.ttf",
+        "FileName": "DejaVu Sans Mono Oblique for Powerline.ttf",
         "Languages": "aa,af,ak,an,ast,av,ay,az-az,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "DejaVu Sans Mono for Powerline": {
         "Foundry": "PfEd",
         "Family": "DejaVu Sans Mono for Powerline",
         "Format": "TrueType",
-        "FilemName": "DejaVu Sans Mono for Powerline.ttf",
+        "FileName": "DejaVu Sans Mono for Powerline.ttf",
         "Languages": "aa,af,ak,an,ar,ast,av,ay,az-az,az-ir,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Menlo Regular": {
         "Foundry": "PfEd",
         "Family": "Menlo",
         "Format": "TrueType",
-        "FilemName": "Menlo-Regular.ttf",
+        "FileName": "Menlo-Regular.ttf",
         "Languages": "aa,af,ak,an,ar,ast,av,ay,az-az,az-ir,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,co,crh,cs,csb,cv,cy,da,de,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,ka,kaa,kab,ki,kj,kk,kl,kr,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sc,sco,se,sel,sg,shs,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     }
 }

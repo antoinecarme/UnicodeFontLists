@@ -3,1015 +3,1015 @@
         "Foundry": "ADBO",
         "Family": "FDArray Test 257",
         "Format": "CFF",
-        "FilemName": "FDArrayTest257.otf",
+        "FileName": "FDArrayTest257.otf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,bo,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,dz,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,kr,ks,ku-am,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nqo,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,si,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,syr,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,und-zmth,und-zsye,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Kurinto Aria KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAriaKR-Rg.ttf",
+        "FileName": "KurintoAriaKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAriaKR-Bd.ttf",
+        "FileName": "KurintoAriaKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAriaKR-BdIt.ttf",
+        "FileName": "KurintoAriaKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Aria KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Aria",
         "Format": "TrueType",
-        "FilemName": "KurintoAriaKR-It.ttf",
+        "FileName": "KurintoAriaKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Arte KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArteKR-Rg.ttf",
+        "FileName": "KurintoArteKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Arte KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArteKR-Bd.ttf",
+        "FileName": "KurintoArteKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Arte KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArteKR-BdIt.ttf",
+        "FileName": "KurintoArteKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Arte KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Arte",
         "Format": "TrueType",
-        "FilemName": "KurintoArteKR-It.ttf",
+        "FileName": "KurintoArteKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCaliKR-Rg.ttf",
+        "FileName": "KurintoCaliKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCaliKR-Bd.ttf",
+        "FileName": "KurintoCaliKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCaliKR-BdIt.ttf",
+        "FileName": "KurintoCaliKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Cali KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Cali",
         "Format": "TrueType",
-        "FilemName": "KurintoCaliKR-It.ttf",
+        "FileName": "KurintoCaliKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Sans KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansKR-Rg.ttf",
+        "FileName": "KurintoSansKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Sans KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansKR-Bd.ttf",
+        "FileName": "KurintoSansKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Sans KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansKR-BdIt.ttf",
+        "FileName": "KurintoSansKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Sans KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Sans",
         "Format": "TrueType",
-        "FilemName": "KurintoSansKR-It.ttf",
+        "FileName": "KurintoSansKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Seri KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeriKR-Rg.ttf",
+        "FileName": "KurintoSeriKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Seri KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeriKR-Bd.ttf",
+        "FileName": "KurintoSeriKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Seri KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeriKR-BdIt.ttf",
+        "FileName": "KurintoSeriKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Seri KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Seri",
         "Format": "TrueType",
-        "FilemName": "KurintoSeriKR-It.ttf",
+        "FileName": "KurintoSeriKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto TMod KR": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTModKR-Rg.ttf",
+        "FileName": "KurintoTModKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto TMod KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTModKR-Bd.ttf",
+        "FileName": "KurintoTModKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto TMod KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTModKR-BdIt.ttf",
+        "FileName": "KurintoTModKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto TMod KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto TMod",
         "Format": "TrueType",
-        "FilemName": "KurintoTModKR-It.ttf",
+        "FileName": "KurintoTModKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Text KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextKR-Rg.ttf",
+        "FileName": "KurintoTextKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Text KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextKR-Bd.ttf",
+        "FileName": "KurintoTextKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Text KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextKR-BdIt.ttf",
+        "FileName": "KurintoTextKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Kurinto Text KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Text",
         "Format": "TrueType",
-        "FilemName": "KurintoTextKR-It.ttf",
+        "FileName": "KurintoTextKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Noto Sans CJK JP": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Regular.ttc",
+        "FileName": "NotoSansCJK-Regular.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Black": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP Black",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Black.ttc",
+        "FileName": "NotoSansCJK-Black.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Bold.ttc",
+        "FileName": "NotoSansCJK-Bold.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP DemiLight": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP DemiLight",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-DemiLight.ttc",
+        "FileName": "NotoSansCJK-DemiLight.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Light": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP Light",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Light.ttc",
+        "FileName": "NotoSansCJK-Light.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP Medium",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Medium.ttc",
+        "FileName": "NotoSansCJK-Medium.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Regular": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP Regular",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Regular.ttc",
+        "FileName": "NotoSansCJK-Regular.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Sans CJK JP Thin": {
         "Foundry": "GOOG",
         "Family": "Noto Sans CJK JP Thin",
         "Format": "CFF",
-        "FilemName": "NotoSansCJK-Thin.ttc",
+        "FileName": "NotoSansCJK-Thin.ttc",
         "Languages": "aa,an,ay,bg,bi,bin,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,haw,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-Regular.ttc",
+        "FileName": "NotoSerifCJK-Regular.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP Black": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP Black",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-Black.ttc",
+        "FileName": "NotoSerifCJK-Black.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP Bold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-Bold.ttc",
+        "FileName": "NotoSerifCJK-Bold.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP ExtraLight": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP ExtraLight",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-ExtraLight.ttc",
+        "FileName": "NotoSerifCJK-ExtraLight.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP Light": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP Light",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-Light.ttc",
+        "FileName": "NotoSerifCJK-Light.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP Medium": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP Medium",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-Medium.ttc",
+        "FileName": "NotoSerifCJK-Medium.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Noto Serif CJK JP SemiBold": {
         "Foundry": "GOOG",
         "Family": "Noto Serif CJK JP SemiBold",
         "Format": "CFF",
-        "FilemName": "NotoSerifCJK-SemiBold.ttc",
+        "FileName": "NotoSerifCJK-SemiBold.ttc",
         "Languages": "aa,an,ay,bg,bi,br,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gn,gv,ho,ht,ia,id,ie,ig,io,is,it,ja,jv,ki,kj,ko,kum,kwm,lb,li,mg,ms,na,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Kurinto Mono KR": {
         "Foundry": "Goss",
         "Family": "Kurinto Mono",
         "Format": "TrueType",
-        "FilemName": "KurintoMonoKR-Rg.ttf",
+        "FileName": "KurintoMonoKR-Rg.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Kurinto Mono KR Bold": {
         "Foundry": "Goss",
         "Family": "Kurinto Mono",
         "Format": "TrueType",
-        "FilemName": "KurintoMonoKR-Bd.ttf",
+        "FileName": "KurintoMonoKR-Bd.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Kurinto Mono KR Bold Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Mono",
         "Format": "TrueType",
-        "FilemName": "KurintoMonoKR-BdIt.ttf",
+        "FileName": "KurintoMonoKR-BdIt.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Kurinto Mono KR Italic": {
         "Foundry": "Goss",
         "Family": "Kurinto Mono",
         "Format": "TrueType",
-        "FilemName": "KurintoMonoKR-It.ttf",
+        "FileName": "KurintoMonoKR-It.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,haw,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,mk,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sm,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,to,tr,ts,ty,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zh-cn,zh-hk,zh-mo,zh-sg,zh-tw,zu"
     },
     "Malgun Gothic Bold": {
         "Foundry": "MS  ",
         "Family": "Malgun Gothic",
         "Format": "TrueType",
-        "FilemName": "malgunbd.ttf",
+        "FileName": "malgunbd.ttf",
         "Languages": "aa,af,an,ay,bg,bi,br,ca,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,ko,kum,kwm,lb,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,wo,xh,yap,za,zu"
     },
     "Un Batang": {
         "Foundry": "PfEd",
         "Family": "UnBatang",
         "Format": "TrueType",
-        "FilemName": "UnBatang.ttf",
+        "FileName": "UnBatang.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Batang Bold": {
         "Foundry": "PfEd",
         "Family": "UnBatang",
         "Format": "TrueType",
-        "FilemName": "UnBatangBold.ttf",
+        "FileName": "UnBatangBold.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Jamo Batang": {
         "Foundry": "PfEd",
         "Family": "UnJamoBatang",
         "Format": "TrueType",
-        "FilemName": "UnJamoBatang.ttf",
+        "FileName": "UnJamoBatang.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Sun-ExtA": {
         "Foundry": "okuc",
         "Family": "Sun-ExtA",
         "Format": "TrueType",
-        "FilemName": "Sun-ExtA.ttf",
+        "FileName": "Sun-ExtA.ttf",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,bg,bh,bho,bi,bin,bm,bn,bo,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,dz,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,kr,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Gothic A1 Black": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 Black",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Black.ttf",
+        "FileName": "GothicA1-Black.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 Bold": {
         "Foundry": "HY  ",
         "Family": "Gothic A1",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Bold.ttf",
+        "FileName": "GothicA1-Bold.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 ExtraBold": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 ExtraBold",
         "Format": "TrueType",
-        "FilemName": "GothicA1-ExtraBold.ttf",
+        "FileName": "GothicA1-ExtraBold.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 ExtraLight": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 ExtraLight",
         "Format": "TrueType",
-        "FilemName": "GothicA1-ExtraLight.ttf",
+        "FileName": "GothicA1-ExtraLight.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 Light": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 Light",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Light.ttf",
+        "FileName": "GothicA1-Light.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 Medium": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 Medium",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Medium.ttf",
+        "FileName": "GothicA1-Medium.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 Regular": {
         "Foundry": "HY  ",
         "Family": "Gothic A1",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Regular.ttf",
+        "FileName": "GothicA1-Regular.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 SemiBold": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 SemiBold",
         "Format": "TrueType",
-        "FilemName": "GothicA1-SemiBold.ttf",
+        "FileName": "GothicA1-SemiBold.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Gothic A1 Thin": {
         "Foundry": "HY  ",
         "Family": "Gothic A1 Thin",
         "Format": "TrueType",
-        "FilemName": "GothicA1-Thin.ttf",
+        "FileName": "GothicA1-Thin.ttf",
         "Languages": "aa,ab,af,ak,an,ast,av,ay,az-az,ba,be,ber-dz,bg,bi,bin,bm,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gv,ha,haw,ho,hr,hsb,ht,hu,hz,ia,id,ie,ig,ik,io,is,it,jv,kaa,kab,ki,kj,kk,kl,ko,ku-tr,kum,kv,kw,kwm,ky,la,lb,lez,lg,li,ln,lt,lv,mg,mh,mi,mk,mn-mn,mo,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,nv,ny,oc,om,os,pap-an,pap-aw,pl,pt,qu,quz,rm,rn,ro,ru,rw,sah,sc,sco,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,uk,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yo,za,zu"
     },
     "Arial Unicode MS": {
         "Foundry": "MONO",
         "Family": "Arial Unicode MS",
         "Format": "TrueType",
-        "FilemName": "Arial Unicode.ttf",
+        "FileName": "Arial Unicode.ttf",
         "Languages": "aa,ab,af,ak,an,ar,as,ast,av,ay,az-az,ba,be,ber-dz,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cv,cy,da,de,doi,ee,el,en,eo,es,et,eu,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ik,io,is,it,ja,jv,ka,kaa,kab,ki,kj,kk,kl,kn,ko,kok,ku-iq,ku-ir,ku-tr,kum,kv,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,ml,mn-mn,mr,ms,mt,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ru,rw,sa,sah,sat,sc,sd,se,sel,sg,sh,shs,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wen,wo,xh,yap,yi,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Batang": {
         "Foundry": "HY  ",
         "Family": "Batang",
         "Format": "TrueType",
-        "FilemName": "batang.ttc",
+        "FileName": "batang.ttc",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,tr,ts,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Code2000": {
         "Foundry": "jjk",
         "Family": "Code2000",
         "Format": "TrueType",
-        "FilemName": "CODE2000.TTF",
+        "FileName": "CODE2000.TTF",
         "Languages": "aa,ab,af,ak,am,an,ar,as,ast,av,ay,az-az,az-ir,ba,be,ber-dz,ber-ma,bg,bh,bho,bi,bin,bm,bn,br,brx,bs,bua,byn,ca,ce,ch,chm,chr,co,crh,cs,csb,cu,cv,cy,da,de,doi,dv,ee,el,en,eo,es,et,eu,fa,fat,ff,fi,fil,fj,fo,fr,fur,fy,ga,gd,gez,gl,gn,gu,gv,ha,haw,he,hi,hne,ho,hr,hsb,ht,hu,hy,hz,ia,id,ie,ig,ii,ik,io,is,it,iu,ja,jv,ka,kaa,kab,ki,kj,kk,kl,km,kn,ko,kok,ku-iq,ku-ir,ku-tr,kum,kv,kw,kwm,ky,la,lah,lb,lez,lg,li,ln,lo,lt,lv,mai,mg,mh,mi,mk,ml,mn-cn,mn-mn,mni,mo,mr,ms,mt,my,na,nb,nds,ne,ng,nl,nn,no,nr,nso,nv,ny,oc,om,or,os,ota,pa,pa-pk,pap-an,pap-aw,pl,ps-af,ps-pk,pt,qu,quz,rm,rn,ro,ru,rw,sa,sah,sat,sc,sco,sd,se,sel,sg,sh,shs,sid,sk,sl,sm,sma,smj,smn,sms,sn,so,sq,sr,ss,st,su,sv,sw,ta,te,tg,th,ti-er,ti-et,tig,tk,tl,tn,to,tr,ts,tt,tw,ty,tyv,ug,uk,ur,uz,ve,vi,vo,vot,wa,wal,wen,wo,xh,yap,yi,yo,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Gulim": {
         "Foundry": "HY  ",
         "Family": "Gulim",
         "Format": "TrueType",
-        "FilemName": "gulim.ttc",
+        "FileName": "gulim.ttc",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,tr,ts,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "New Gulim": {
         "Foundry": "HY  ",
         "Family": "New Gulim",
         "Format": "TrueType",
-        "FilemName": "new gulim Font Download.ttf",
+        "FileName": "new gulim Font Download.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,bs,ca,ce,ch,co,crh,cs,csb,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,hr,hsb,ht,hu,ia,id,ie,ik,io,is,it,jv,ki,kj,kl,ko,ku-tr,kum,kwm,la,lb,lez,lg,li,lt,lv,mg,mh,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sc,se,sel,sg,sk,sl,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tk,tl,tn,tr,ts,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zu"
     },
     "Malgun Gothic": {
         "Foundry": "MS  ",
         "Family": "Malgun Gothic",
         "Format": "TrueType",
-        "FilemName": "malgun.ttf",
+        "FileName": "malgun.ttf",
         "Languages": "aa,af,an,ay,bg,bi,br,ca,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,ko,kum,kwm,lb,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,wo,xh,yap,za,zu"
     },
     "Malgun Gothic Semilight": {
         "Foundry": "MS  ",
         "Family": "Malgun Gothic Semilight",
         "Format": "TrueType",
-        "FilemName": "malgunsl.ttf",
+        "FileName": "malgunsl.ttf",
         "Languages": "aa,af,an,ay,bg,bi,br,ca,ch,co,da,de,en,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,ko,kum,kwm,lb,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,tn,ts,uz,vo,vot,wa,wo,xh,yap,za,zu"
     },
     "Un Dotum": {
         "Foundry": "PfEd",
         "Family": "UnDotum",
         "Format": "TrueType",
-        "FilemName": "UnDotum.ttf",
+        "FileName": "UnDotum.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Taza": {
         "Foundry": "PfEd",
         "Family": "UnTaza",
         "Format": "TrueType",
-        "FilemName": "UnTaza.ttf",
+        "FileName": "UnTaza.ttf",
         "Languages": "aa,af,an,ay,bi,br,ca,ch,da,de,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,io,is,it,jv,kj,ko,kwm,lb,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,pap-an,pap-aw,pt,rm,rn,rw,sc,sg,sma,smj,sn,so,sq,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Dotum Bold": {
         "Foundry": "PfEd",
         "Family": "UnDotum",
         "Format": "TrueType",
-        "FilemName": "UnDotumBold.ttf",
+        "FileName": "UnDotumBold.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Graphic": {
         "Foundry": "PfEd",
         "Family": "UnGraphic",
         "Format": "TrueType",
-        "FilemName": "UnGraphic.ttf",
+        "FileName": "UnGraphic.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Graphic Bold": {
         "Foundry": "PfEd",
         "Family": "UnGraphic",
         "Format": "TrueType",
-        "FilemName": "UnGraphicBold.ttf",
+        "FileName": "UnGraphicBold.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Gungseo": {
         "Foundry": "PfEd",
         "Family": "UnGungseo",
         "Format": "TrueType",
-        "FilemName": "UnGungseo.ttf",
+        "FileName": "UnGungseo.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Jamo Dotum": {
         "Foundry": "PfEd",
         "Family": "UnJamoDotum",
         "Format": "TrueType",
-        "FilemName": "UnJamoDotum.ttf",
+        "FileName": "UnJamoDotum.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Jamo Novel": {
         "Foundry": "PfEd",
         "Family": "UnJamoNovel",
         "Format": "TrueType",
-        "FilemName": "UnJamoNovel.ttf",
+        "FileName": "UnJamoNovel.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Jamo Sora": {
         "Foundry": "PfEd",
         "Family": "UnJamoSora",
         "Format": "TrueType",
-        "FilemName": "UnJamoSora.ttf",
+        "FileName": "UnJamoSora.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Pen": {
         "Foundry": "PfEd",
         "Family": "UnPen",
         "Format": "TrueType",
-        "FilemName": "UnPen.ttf",
+        "FileName": "UnPen.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Penheulim": {
         "Foundry": "PfEd",
         "Family": "UnPenheulim",
         "Format": "TrueType",
-        "FilemName": "UnPenheulim.ttf",
+        "FileName": "UnPenheulim.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Pilgia": {
         "Foundry": "PfEd",
         "Family": "UnPilgia",
         "Format": "TrueType",
-        "FilemName": "UnPilgia.ttf",
+        "FileName": "UnPilgia.ttf",
         "Languages": "aa,an,av,ay,be,bg,bi,br,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,xh,yap,za,zu"
     },
     "Un Shinmun": {
         "Foundry": "PfEd",
         "Family": "UnShinmun",
         "Format": "TrueType",
-        "FilemName": "UnShinmun.ttf",
+        "FileName": "UnShinmun.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Vada": {
         "Foundry": "PfEd",
         "Family": "UnVada",
         "Format": "TrueType",
-        "FilemName": "UnVada.ttf",
+        "FileName": "UnVada.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Yetgul": {
         "Foundry": "PfEd",
         "Family": "UnYetgul",
         "Format": "TrueType",
-        "FilemName": "UnYetgul.ttf",
+        "FileName": "UnYetgul.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "WenQuanYi Zen Hei": {
         "Foundry": "WenQ",
         "Family": "WenQuanYi Zen Hei",
         "Format": "TrueType",
-        "FilemName": "wqy-zenhei.ttc",
+        "FileName": "wqy-zenhei.ttc",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,co,da,de,el,en,es,eu,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,ja,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,ny,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sm,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,to,ts,uz,vo,wa,wo,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Un Dinaru": {
         "Foundry": "PfEd",
         "Family": "UnDinaru",
         "Format": "TrueType",
-        "FilemName": "UnDinaru.ttf",
+        "FileName": "UnDinaru.ttf",
         "Languages": "aa,an,av,ay,be,bg,bi,br,ce,ch,co,da,de,el,en,es,eu,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,tn,ts,uz,vo,wa,xh,yap,za,zu"
     },
     "Un Dinaru Bold": {
         "Foundry": "PfEd",
         "Family": "UnDinaru",
         "Format": "TrueType",
-        "FilemName": "UnDinaruBold.ttf",
+        "FileName": "UnDinaruBold.ttf",
         "Languages": "aa,an,av,ay,be,bg,bi,br,ce,ch,co,da,de,el,en,es,eu,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,tn,ts,uz,vo,wa,xh,yap,za,zu"
     },
     "Un Dinaru Light": {
         "Foundry": "PfEd",
         "Family": "UnDinaru",
         "Format": "TrueType",
-        "FilemName": "UnDinaruLight.ttf",
+        "FileName": "UnDinaruLight.ttf",
         "Languages": "aa,an,av,ay,be,bg,bi,br,ce,ch,co,da,de,el,en,es,eu,fil,fj,fo,fr,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,li,mg,ms,nb,nds,ng,nl,nn,no,nr,nso,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,tn,ts,uz,vo,wa,xh,yap,za,zu"
     },
     "Un Pilgi": {
         "Foundry": "PfEd",
         "Family": "UnPilgi",
         "Format": "TrueType",
-        "FilemName": "UnPilgi.ttf",
+        "FileName": "UnPilgi.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Un Pilgi Bold": {
         "Foundry": "PfEd",
         "Family": "UnPilgi",
         "Format": "TrueType",
-        "FilemName": "UnPilgiBold.ttf",
+        "FileName": "UnPilgiBold.ttf",
         "Languages": "aa,af,an,av,ay,be,bg,bi,br,ca,ce,ch,da,de,el,en,es,eu,fil,fj,fo,fur,fy,gd,gl,gv,ho,ht,ia,id,ie,ik,io,is,it,jv,kj,ko,kum,kwm,lb,lez,lg,li,mg,ms,nb,nds,ng,nl,nn,no,nr,oc,om,os,pap-an,pap-aw,pt,rm,rn,ru,rw,sc,sel,sg,sma,smj,sn,so,sq,sr,ss,st,su,sv,sw,tl,ts,uz,vo,wa,wo,xh,yap,za,zu"
     },
     "Droid Sans Fallback": {
         "Foundry": "1ASC",
         "Family": "Droid Sans Fallback",
         "Format": "TrueType",
-        "FilemName": "DroidSansFallback.ttf",
+        "FileName": "DroidSansFallback.ttf",
         "Languages": "ja,ko,zh-tw"
     },
     "AppleGothic Regular": {
         "Foundry": "unknown",
         "Family": "AppleGothic",
         "Format": "TrueType",
-        "FilemName": "AppleGothic.ttf",
+        "FileName": "AppleGothic.ttf",
         "Languages": "de,fj,ho,ia,ie,ig,io,kj,ko,kwm,lg,ms,nds,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,vo,xh,yap,za,zu"
     },
     "NanumGothicBold": {
         "Foundry": "SAND",
         "Family": "NanumGothic",
         "Format": "TrueType",
-        "FilemName": "NanumGothicBold.ttf",
+        "FileName": "NanumGothicBold.ttf",
         "Languages": "aa,af,an,bg,bi,br,ch,es,eu,fj,gl,gv,ho,ia,id,ie,io,jv,kj,ko,kum,kwm,lg,mg,ms,ng,nr,om,os,pap-aw,rn,ru,rw,sel,sn,so,sq,ss,st,su,sw,ts,uz,xh,za,zu"
     },
     "AppleMyungjo": {
         "Foundry": "unknown",
         "Family": "AppleMyungjo",
         "Format": "TrueType",
-        "FilemName": "AppleMyungjo.ttf",
+        "FileName": "AppleMyungjo.ttf",
         "Languages": "fj,ho,ia,ie,ig,io,kj,ko,kwm,lg,ms,ng,nr,om,rn,rw,sm,sn,so,ss,st,sw,to,ts,uz,xh,za,zu"
     },
     "Nanum Brush Script": {
         "Foundry": "SAND",
         "Family": "Nanum Brush Script",
         "Format": "TrueType",
-        "FilemName": "NanumBrushScript-Regular.korean",
+        "FileName": "NanumBrushScript-Regular.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Nanum Pen": {
         "Foundry": "SAND",
         "Family": "Nanum Pen",
         "Format": "TrueType",
-        "FilemName": "NanumPenScript-Regular.korean",
+        "FileName": "NanumPenScript-Regular.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumBarunGothic": {
         "Foundry": "RIXF",
         "Family": "NanumBarunGothic",
         "Format": "TrueType",
-        "FilemName": "NanumBarunGothic.ttf",
+        "FileName": "NanumBarunGothic.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumBarunGothic Bold": {
         "Foundry": "RIXF",
         "Family": "NanumBarunGothic",
         "Format": "TrueType",
-        "FilemName": "NanumBarunGothicBold.ttf",
+        "FileName": "NanumBarunGothicBold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumGothic Bold": {
         "Foundry": "SAND",
         "Family": "NanumGothic",
         "Format": "TrueType",
-        "FilemName": "NanumGothic-Bold.korean",
+        "FileName": "NanumGothic-Bold.korean",
         "Languages": "aa,af,bg,bi,fj,gv,ho,ia,id,ie,io,jv,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,sq,ss,st,su,sw,ts,uz,xh,za,zu"
     },
     "NanumGothicCoding": {
         "Foundry": "SAND",
         "Family": "NanumGothicCoding",
         "Format": "TrueType",
-        "FilemName": "NanumGothicCoding.ttf",
+        "FileName": "NanumGothicCoding.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumGothicCoding-Bold": {
         "Foundry": "SAND",
         "Family": "NanumGothicCoding",
         "Format": "TrueType",
-        "FilemName": "NanumGothicCoding-Bold.ttf",
+        "FileName": "NanumGothicCoding-Bold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumMyeongjoExtraBold": {
         "Foundry": "RIXF",
         "Family": "NanumMyeongjoExtraBold",
         "Format": "TrueType",
-        "FilemName": "NanumMyeongjo-ExtraBold.korean",
+        "FileName": "NanumMyeongjo-ExtraBold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumSquare Bold": {
         "Foundry": "SAND",
         "Family": "NanumSquare Bold",
         "Format": "TrueType",
-        "FilemName": "NanumSquareB.ttf",
+        "FileName": "NanumSquareB.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumSquare Regular": {
         "Foundry": "SAND",
         "Family": "NanumSquare",
         "Format": "TrueType",
-        "FilemName": "NanumSquareR.ttf",
+        "FileName": "NanumSquareR.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang B": {
         "Foundry": "YDI ",
         "Family": "SeoulHangang B",
         "Format": "TrueType",
-        "FilemName": "SeoulHangang-Bold.korean",
+        "FileName": "SeoulHangang-Bold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang CB": {
         "Foundry": "TYPO",
         "Family": "SeoulHangang CB",
         "Format": "TrueType",
-        "FilemName": "SeoulHangangCondensed-Bold.ttf",
+        "FileName": "SeoulHangangCondensed-Bold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang CBL": {
         "Foundry": "TYPO",
         "Family": "SeoulHangang CBL",
         "Format": "TrueType",
-        "FilemName": "SeoulHangangCondensed-BoldL.korean",
+        "FileName": "SeoulHangangCondensed-BoldL.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang CEB": {
         "Foundry": "TYPO",
         "Family": "SeoulHangang CEB",
         "Format": "TrueType",
-        "FilemName": "SeoulHangangCondensed-ExtraBold.korean",
+        "FileName": "SeoulHangangCondensed-ExtraBold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang CL": {
         "Foundry": "TYPO",
         "Family": "SeoulHangang CL",
         "Format": "TrueType",
-        "FilemName": "SeoulHangangCondensed-Light.ttf",
+        "FileName": "SeoulHangangCondensed-Light.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang CM": {
         "Foundry": "TYPO",
         "Family": "SeoulHangang CM",
         "Format": "TrueType",
-        "FilemName": "SeoulHangangCondensed-Medium.ttf",
+        "FileName": "SeoulHangangCondensed-Medium.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang EB": {
         "Foundry": "YDI ",
         "Family": "SeoulHangang EB",
         "Format": "TrueType",
-        "FilemName": "SeoulHangang-ExtraBold.ttf",
+        "FileName": "SeoulHangang-ExtraBold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang L": {
         "Foundry": "YDI ",
         "Family": "SeoulHangang L",
         "Format": "TrueType",
-        "FilemName": "SeoulHangang-Light.korean",
+        "FileName": "SeoulHangang-Light.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulHangang M": {
         "Foundry": "YDI ",
         "Family": "SeoulHangang M",
         "Format": "TrueType",
-        "FilemName": "SeoulHangang-Medium.korean",
+        "FileName": "SeoulHangang-Medium.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan B": {
         "Foundry": "YDI ",
         "Family": "SeoulNamsan B",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsan-Bold.korean",
+        "FileName": "SeoulNamsan-Bold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan CB": {
         "Foundry": "TYPO",
         "Family": "SeoulNamsan CB",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanCondensed-Bold.korean",
+        "FileName": "SeoulNamsanCondensed-Bold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan CBL": {
         "Foundry": "TYPO",
         "Family": "SeoulNamsan CBL",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanCondensed-Black.ttf",
+        "FileName": "SeoulNamsanCondensed-Black.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan CEB": {
         "Foundry": "TYPO",
         "Family": "SeoulNamsan CEB",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanCondensed-ExtraBold.ttf",
+        "FileName": "SeoulNamsanCondensed-ExtraBold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan CL": {
         "Foundry": "TYPO",
         "Family": "SeoulNamsan CL",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanCondensed-Light.ttf",
+        "FileName": "SeoulNamsanCondensed-Light.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan CM": {
         "Foundry": "TYPO",
         "Family": "SeoulNamsan CM",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanCondensed-Medium.korean",
+        "FileName": "SeoulNamsanCondensed-Medium.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan L": {
         "Foundry": "YDI ",
         "Family": "SeoulNamsan L",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsan-Light.korean",
+        "FileName": "SeoulNamsan-Light.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan M": {
         "Foundry": "YDI ",
         "Family": "SeoulNamsan M",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsan-Medium.ttf",
+        "FileName": "SeoulNamsan-Medium.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "JejuGothic": {
         "Foundry": "SAND",
         "Family": "JejuGothic",
         "Format": "TrueType",
-        "FilemName": "JejuGothic-Regular.ttf",
+        "FileName": "JejuGothic-Regular.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "JejuHallasan": {
         "Foundry": "SAND",
         "Family": "JejuHallasan",
         "Format": "TrueType",
-        "FilemName": "JejuHallasan-Regular.ttf",
+        "FileName": "JejuHallasan-Regular.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "JejuMyeongjo": {
         "Foundry": "SAND",
         "Family": "JejuMyeongjo",
         "Format": "TrueType",
-        "FilemName": "JejuMyeongjo-Regular.ttf",
+        "FileName": "JejuMyeongjo-Regular.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "KoPub Batang Bold": {
         "Foundry": "RIXF",
         "Family": "KoPub Batang",
         "Format": "TrueType",
-        "FilemName": "KoPubBatang-Bold.ttf",
+        "FileName": "KoPubBatang-Bold.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "KoPub Batang Light": {
         "Foundry": "RIXF",
         "Family": "KoPub Batang",
         "Format": "TrueType",
-        "FilemName": "KoPubBatang-Light.ttf",
+        "FileName": "KoPubBatang-Light.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "KoPubBatang Regular": {
         "Foundry": "RIXF",
         "Family": "KoPub Batang",
         "Format": "TrueType",
-        "FilemName": "KoPubBatang-Regular.ttf",
+        "FileName": "KoPubBatang-Regular.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumGothic": {
         "Foundry": "SAND",
         "Family": "NanumGothic",
         "Format": "TrueType",
-        "FilemName": "NanumGothic-Regular.ttf",
+        "FileName": "NanumGothic-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,lg,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumGothicExtraBold": {
         "Foundry": "SAND",
         "Family": "NanumGothicExtraBold",
         "Format": "TrueType",
-        "FilemName": "NanumGothic-ExtraBold.ttf",
+        "FileName": "NanumGothic-ExtraBold.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,lg,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumMyeongjo": {
         "Foundry": "RIXF",
         "Family": "NanumMyeongjo",
         "Format": "TrueType",
-        "FilemName": "NanumMyeongjo-Regular.ttf",
+        "FileName": "NanumMyeongjo-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,lg,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumMyeongjoBold": {
         "Foundry": "RIXF",
         "Family": "NanumMyeongjo",
         "Format": "TrueType",
-        "FilemName": "NanumMyeongjo-Bold.ttf",
+        "FileName": "NanumMyeongjo-Bold.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,lg,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumSquareRound Bold": {
         "Foundry": "SAND",
         "Family": "NanumSquareRound Bold",
         "Format": "TrueType",
-        "FilemName": "NanumSquareRoundB.ttf",
+        "FileName": "NanumSquareRoundB.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "NanumSquareRound Regular": {
         "Foundry": "SAND",
         "Family": "NanumSquareRound Regular",
         "Format": "TrueType",
-        "FilemName": "NanumSquareRoundR.ttf",
+        "FileName": "NanumSquareRoundR.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan EB": {
         "Foundry": "YDI ",
         "Family": "SeoulNamsan EB",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsan-ExtraBold.korean",
+        "FileName": "SeoulNamsan-ExtraBold.korean",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "SeoulNamsan vert": {
         "Foundry": "YDI ",
         "Family": "SeoulNamsan vert",
         "Format": "TrueType",
-        "FilemName": "SeoulNamsanVertical-Regular.ttf",
+        "FileName": "SeoulNamsanVertical-Regular.ttf",
         "Languages": "bg,fj,ho,ia,ie,io,kj,ko,kum,kwm,lg,ms,ng,nr,om,os,rn,ru,rw,sel,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "UKIJ CJK": {
         "Foundry": "ALP ",
         "Family": "UKIJ CJK",
         "Format": "TrueType",
-        "FilemName": "UKIJCJK.ttf",
+        "FileName": "UKIJCJK.ttf",
         "Languages": "aa,ar,ay,az-ir,bg,bua,ch,de,et,eu,fa,fi,fj,haw,ho,ia,ie,ik,io,ja,kaa,ki,kj,ko,kum,kwm,ky,lg,mn-mn,ms,na,nds,ng,nr,nso,om,os,ota,pap-aw,qu,quz,rn,ru,rw,sel,sg,sm,sma,sn,so,ss,st,sw,tn,to,ts,tt,ty,tyv,ug,uz,vo,vot,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "WenQuanYi Micro Hei": {
         "Foundry": "WQYF",
         "Family": "WenQuanYi Micro Hei",
         "Format": "TrueType",
-        "FilemName": "wqy-microhei.ttc",
+        "FileName": "wqy-microhei.ttc",
         "Languages": "aa,ab,af,an,av,ay,ba,be,bg,bi,bin,br,bs,bua,ca,ce,ch,chm,co,crh,cs,csb,cu,cv,cy,da,de,el,en,eo,es,et,eu,fi,fil,fj,fo,fr,fur,fy,gd,gl,gn,gv,ho,hr,hsb,ht,hu,ia,id,ie,ig,ik,io,is,it,ja,jv,kaa,ki,kj,kk,kl,ko,ku-tr,kum,kv,kwm,ky,la,lb,lez,lg,li,lt,lv,mg,mh,mk,mn-mn,ms,mt,na,nb,nds,ng,nl,nn,no,nr,nso,ny,oc,om,os,pap-an,pap-aw,pl,pt,rm,rn,ru,rw,sah,sc,se,sel,sg,sh,sk,sl,sma,smj,smn,sn,so,sq,sr,ss,st,su,sv,sw,tg,tk,tl,tn,tr,ts,tt,ty,tyv,uk,uz,vo,vot,wa,wen,wo,xh,yap,za,zh-cn,zh-sg,zh-tw,zu"
     },
     "Black And White Picture Regular": {
         "Foundry": "ASIA",
         "Family": "Black And White Picture",
         "Format": "TrueType",
-        "FilemName": "BlackAndWhitePicture-Regular.ttf",
+        "FileName": "BlackAndWhitePicture-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Gamja Flower Regular": {
         "Foundry": "YDI ",
         "Family": "Gamja Flower",
         "Format": "TrueType",
-        "FilemName": "GamjaFlower-Regular.ttf",
+        "FileName": "GamjaFlower-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Hi Melody Regular": {
         "Foundry": "YDI ",
         "Family": "Hi Melody",
         "Format": "TrueType",
-        "FilemName": "HiMelody-Regular.ttf",
+        "FileName": "HiMelody-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Nanum Pen Regular": {
         "Foundry": "SAND",
         "Family": "Nanum Pen",
         "Format": "TrueType",
-        "FilemName": "NanumPenScript-Regular.ttf",
+        "FileName": "NanumPenScript-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Poor Story Regular": {
         "Foundry": "YDI ",
         "Family": "Poor Story",
         "Format": "TrueType",
-        "FilemName": "PoorStory-Regular.ttf",
+        "FileName": "PoorStory-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Single Day Regular": {
         "Foundry": "DXFG",
         "Family": "Single Day",
         "Format": "TrueType",
-        "FilemName": "SingleDay-Regular.ttf",
+        "FileName": "SingleDay-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "Stylish Regular": {
         "Foundry": "ASIA",
         "Family": "Stylish",
         "Format": "TrueType",
-        "FilemName": "Stylish-Regular.ttf",
+        "FileName": "Stylish-Regular.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,ko,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     },
     "BM HANNA": {
         "Foundry": "BM",
         "Family": "BM HANNA",
         "Format": "TrueType",
-        "FilemName": "BM-HANNA.ttf",
+        "FileName": "BM-HANNA.ttf",
         "Languages": "fj,ho,ia,ie,io,kj,kwm,ms,ng,nr,om,rn,rw,sn,so,ss,st,sw,ts,uz,xh,za,zu"
     }
 }
