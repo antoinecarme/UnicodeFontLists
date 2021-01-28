@@ -1,5 +1,6 @@
 # UnicodeFontLists
-A list of fonts organized by unicode script
+
+A list of fonts organized by unicode script.
 
 This is a set of lists (JSON files) that reflect all the fonts that support a given unicode script (https://en.wikipedia.org/wiki/Script_(Unicode)). 
 
