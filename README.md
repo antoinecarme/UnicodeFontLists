@@ -2,7 +2,7 @@
 
 A list of fonts organized by unicode script.
 
-This is a set of lists (JSON files) that reflect all the fonts that support a given unicode script (https://en.wikipedia.org/wiki/Script_(Unicode)). 
+This is a set of lists (JSON files) that reflect the fonts that have the best support for a given unicode script (https://en.wikipedia.org/wiki/Script_(Unicode)). 
 
 The fonts are organized in directories, one for each script. The directory name is the ISO-15924 code of the script, Latin is '[Latn](Fonts/Latn/Latn_font_support_details.json)', Simplified Chinese is '[Hani](Fonts/Hani/Hani_font_support_details.json)', Yezidi is '[Yezi](Fonts/Yezi/Yezi_font_support_details.json)' etc ... 
 
